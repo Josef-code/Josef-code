@@ -59,7 +59,7 @@ My goal is to build robust, efficient, and user-centric solutions.
 
 ### 🔭 Currently
 
-* Working on **Cartoo AI Shopping assistant**.
+* Working on **Nafini -AI-powered WhatsApp financial tool**.
 
 ---
 
@@ -67,6 +67,6 @@ My goal is to build robust, efficient, and user-centric solutions.
 ### 📫 How to Reach Me
 
 * **Email:** [joseph.bassey.official@gmail.com](mailto:joseph.bassey.official@gmail.com)
-* **LinkedIn:** [linkedin.com/in/your-profile]([YOUR_LINKEDIN_URL]) * **GitHub:** You're already here! 😄
+* **LinkedIn:** [https://www.linkedin.com/in/joseph-bassey-ok/]([YOUR_LINKEDIN_URL]) * **GitHub:** You're already here! 😄
 
 ---
